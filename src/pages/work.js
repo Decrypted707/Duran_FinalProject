@@ -175,7 +175,7 @@ export default (() => {
 										flex-direction="column"
 										align-items="flex-end"
 									>
-										<Button background="--color-dark" href="/work#work">
+										<Button background="--color-dark" href="#Empwork">
 											Log In
 										</Button>
 									</Box>
@@ -233,7 +233,7 @@ export default (() => {
 				Make it possible for everyone. You will start it all
 			</Text>
 		</Section>
-		<Section padding="90px 0 100px 0" quarkly-title="Reviews-3" id="work">
+		<Section padding="90px 0 100px 0" quarkly-title="Reviews-3" id="Empwork">
 			<Text margin="0px 0px 70px 0px" font="normal 600 46px/1.2 --fontFamily-sans" text-align="center" md-margin="0px 0px 50px 0px">
 				Applicants
 			</Text>
